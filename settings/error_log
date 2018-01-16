@@ -1,0 +1,53 @@
+[05-Jun-2017 00:48:12 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/settings/index.php on line 26
+[05-Jun-2017 00:48:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/settings/index.php on line 26
+[05-Jun-2017 00:48:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/youssefmousa2001/public_html/settings/index.php on line 27
+[05-Jun-2017 00:48:12 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/settings/index.php on line 32
+[05-Jun-2017 00:48:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/settings/index.php on line 32
+[05-Jun-2017 00:48:36 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/settings/changepassword.php on line 23
+[05-Jun-2017 00:48:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/settings/changepassword.php on line 23
+[05-Jun-2017 00:48:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/youssefmousa2001/public_html/settings/changepassword.php on line 24
+[05-Jun-2017 00:48:36 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/settings/changepassword.php on line 29
+[05-Jun-2017 00:48:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/settings/changepassword.php on line 29
+[05-Jun-2017 00:48:43 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/settings/changepassword.php on line 23
+[05-Jun-2017 00:48:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/settings/changepassword.php on line 23
+[05-Jun-2017 00:48:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/youssefmousa2001/public_html/settings/changepassword.php on line 24
+[05-Jun-2017 00:48:43 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/settings/changepassword.php on line 29
+[05-Jun-2017 00:48:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/settings/changepassword.php on line 29
+[05-Jun-2017 00:48:44 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/settings/editaccount.php on line 24
+[05-Jun-2017 00:48:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/settings/editaccount.php on line 24
+[05-Jun-2017 00:48:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/youssefmousa2001/public_html/settings/editaccount.php on line 25
+[05-Jun-2017 00:48:44 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/settings/editaccount.php on line 30
+[05-Jun-2017 00:48:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/settings/editaccount.php on line 30
+[05-Jun-2017 00:48:44 UTC] PHP Notice:  Undefined variable: lang in /home/youssefmousa2001/public_html/settings/editaccount.php on line 34
+[05-Jun-2017 00:48:44 UTC] PHP Notice:  Undefined variable: edit_account_info_title in /home/youssefmousa2001/public_html/settings/editaccount.php on line 42
+[05-Jun-2017 00:48:44 UTC] PHP Notice:  Undefined variable: style_file_2 in /home/youssefmousa2001/public_html/settings/editaccount.php on line 46
+[05-Jun-2017 00:48:44 UTC] PHP Notice:  Undefined variable: media in /home/youssefmousa2001/public_html/settings/editaccount.php on line 83
+[05-Jun-2017 00:48:44 UTC] PHP Notice:  Undefined variable: back in /home/youssefmousa2001/public_html/settings/editaccount.php on line 160
+[05-Jun-2017 00:48:44 UTC] PHP Notice:  Undefined variable: edit_acc_info_label in /home/youssefmousa2001/public_html/settings/editaccount.php on line 160
+[05-Jun-2017 00:48:44 UTC] PHP Notice:  Undefined variable: info_username in /home/youssefmousa2001/public_html/settings/editaccount.php on line 176
+[05-Jun-2017 00:48:44 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/settings/editaccount.php on line 177
+[05-Jun-2017 00:48:44 UTC] PHP Notice:  Undefined variable: info_name in /home/youssefmousa2001/public_html/settings/editaccount.php on line 179
+[05-Jun-2017 00:48:44 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/settings/editaccount.php on line 180
+[05-Jun-2017 00:48:44 UTC] PHP Notice:  Undefined variable: info_country in /home/youssefmousa2001/public_html/settings/editaccount.php on line 182
+[05-Jun-2017 00:48:44 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/settings/editaccount.php on line 183
+[05-Jun-2017 00:48:44 UTC] PHP Notice:  Undefined variable: update_info_label in /home/youssefmousa2001/public_html/settings/editaccount.php on line 185
+[05-Jun-2017 00:48:44 UTC] PHP Notice:  Undefined variable: js in /home/youssefmousa2001/public_html/settings/editaccount.php on line 203
+[05-Jun-2017 00:48:46 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/settings/editaccount.php on line 24
+[05-Jun-2017 00:48:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/settings/editaccount.php on line 24
+[05-Jun-2017 00:48:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/youssefmousa2001/public_html/settings/editaccount.php on line 25
+[05-Jun-2017 00:48:46 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/settings/editaccount.php on line 30
+[05-Jun-2017 00:48:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/settings/editaccount.php on line 30
+[05-Jun-2017 00:48:46 UTC] PHP Notice:  Undefined variable: lang in /home/youssefmousa2001/public_html/settings/editaccount.php on line 34
+[05-Jun-2017 00:48:46 UTC] PHP Notice:  Undefined variable: edit_account_info_title in /home/youssefmousa2001/public_html/settings/editaccount.php on line 42
+[05-Jun-2017 00:48:46 UTC] PHP Notice:  Undefined variable: style_file_2 in /home/youssefmousa2001/public_html/settings/editaccount.php on line 46
+[05-Jun-2017 00:48:46 UTC] PHP Notice:  Undefined variable: media in /home/youssefmousa2001/public_html/settings/editaccount.php on line 83
+[05-Jun-2017 00:48:46 UTC] PHP Notice:  Undefined variable: back in /home/youssefmousa2001/public_html/settings/editaccount.php on line 160
+[05-Jun-2017 00:48:46 UTC] PHP Notice:  Undefined variable: edit_acc_info_label in /home/youssefmousa2001/public_html/settings/editaccount.php on line 160
+[05-Jun-2017 00:48:46 UTC] PHP Notice:  Undefined variable: info_username in /home/youssefmousa2001/public_html/settings/editaccount.php on line 176
+[05-Jun-2017 00:48:46 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/settings/editaccount.php on line 177
+[05-Jun-2017 00:48:46 UTC] PHP Notice:  Undefined variable: info_name in /home/youssefmousa2001/public_html/settings/editaccount.php on line 179
+[05-Jun-2017 00:48:46 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/settings/editaccount.php on line 180
+[05-Jun-2017 00:48:46 UTC] PHP Notice:  Undefined variable: info_country in /home/youssefmousa2001/public_html/settings/editaccount.php on line 182
+[05-Jun-2017 00:48:46 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/settings/editaccount.php on line 183
+[05-Jun-2017 00:48:46 UTC] PHP Notice:  Undefined variable: update_info_label in /home/youssefmousa2001/public_html/settings/editaccount.php on line 185
+[05-Jun-2017 00:48:46 UTC] PHP Notice:  Undefined variable: js in /home/youssefmousa2001/public_html/settings/editaccount.php on line 203

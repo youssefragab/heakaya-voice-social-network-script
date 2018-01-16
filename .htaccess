@@ -1,0 +1,51 @@
+
+
+ErrorDocument 404 https://heakaya.com/404.php
+
+Options -Indexes
+
+Options +FollowSymLinks -MultiViews
+
+RewriteEngine On
+
+RewriteBase /
+
+RewriteRule ^u/([^/]+)$ user.php?id=$1
+
+RewriteRule ^s/([^/]+)$ user.php?id=$1&method=search
+
+RewriteRule ^u/([^/]+)$&invalid user.php?id=$1&invalid=true
+
+RewriteRule ^home/([a-z-0-9-_]+)$ home/index.php
+
+RewriteRule ^settings/([a-z-0-9-_]+)$ settings/$1.php
+
+RewriteRule ^([a-z-0-9-_]+)$ $1.php
+
+RewriteRule ^/ /index.php
+
+RewriteRule ^proceed/([^/]+)/([^/]+)$ proceed.php?id=$1&&audio=$2
+
+RewriteRule ^done/([^/]+)/([^/]+)$ done.php?user=$1&&audio=$2
+
+RewriteRule ^share/([^/]+)$ share.php?sc=$1
+
+RewriteRule ^message/([^/]+)$ message.php?mc=$1
+
+RewriteRule ^logout logout.php
+
+RewriteRule ^/help help.php
+
+RewriteRule ^/policy policy.php
+
+RewriteRule ^/logout logout.php
+
+RewriteRule ^/contactus contact.php
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^index.php$ index.php?$1 [L,QSA]
+
+
+
+

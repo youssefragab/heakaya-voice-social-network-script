@@ -1,0 +1,127 @@
+[04-Jun-2017 06:49:27 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/home/index.php on line 39
+[04-Jun-2017 06:49:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/home/index.php on line 39
+[04-Jun-2017 06:49:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/youssefmousa2001/public_html/home/index.php on line 40
+[04-Jun-2017 06:49:27 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/home/index.php on line 45
+[04-Jun-2017 06:49:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/home/index.php on line 45
+[04-Jun-2017 06:49:27 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 120
+[04-Jun-2017 06:49:27 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 121
+[04-Jun-2017 06:49:27 UTC] PHP Notice:  Undefined variable: messages_num in /home/youssefmousa2001/public_html/home/index.php on line 145
+[04-Jun-2017 06:49:27 UTC] PHP Notice:  Undefined variable: messages_num in /home/youssefmousa2001/public_html/home/index.php on line 158
+[04-Jun-2017 06:49:27 UTC] PHP Notice:  Undefined variable: execute_me_query in /home/youssefmousa2001/public_html/home/index.php on line 159
+[04-Jun-2017 06:49:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/youssefmousa2001/public_html/home/index.php on line 159
+[04-Jun-2017 06:49:27 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 201
+[04-Jun-2017 06:49:27 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 202
+[04-Jun-2017 06:49:27 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 205
+[04-Jun-2017 06:49:27 UTC] PHP Notice:  Undefined variable: gender in /home/youssefmousa2001/public_html/home/index.php on line 206
+[04-Jun-2017 06:49:27 UTC] PHP Notice:  Undefined variable: gender_icon in /home/youssefmousa2001/public_html/home/index.php on line 206
+[04-Jun-2017 06:49:27 UTC] PHP Notice:  Undefined variable: user_name in /home/youssefmousa2001/public_html/home/index.php on line 216
+[04-Jun-2017 06:49:27 UTC] PHP Notice:  Undefined variable: user_name in /home/youssefmousa2001/public_html/home/index.php on line 218
+[04-Jun-2017 08:20:53 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/home/index.php on line 77
+[04-Jun-2017 08:20:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/home/index.php on line 77
+[04-Jun-2017 08:20:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/youssefmousa2001/public_html/home/index.php on line 79
+[04-Jun-2017 08:20:53 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/home/index.php on line 89
+[04-Jun-2017 08:20:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/home/index.php on line 89
+[04-Jun-2017 08:20:53 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 239
+[04-Jun-2017 08:20:53 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 241
+[04-Jun-2017 08:20:53 UTC] PHP Notice:  Undefined variable: messages_num in /home/youssefmousa2001/public_html/home/index.php on line 289
+[04-Jun-2017 08:20:53 UTC] PHP Notice:  Undefined variable: messages_num in /home/youssefmousa2001/public_html/home/index.php on line 315
+[04-Jun-2017 08:20:53 UTC] PHP Notice:  Undefined variable: execute_me_query in /home/youssefmousa2001/public_html/home/index.php on line 317
+[04-Jun-2017 08:20:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/youssefmousa2001/public_html/home/index.php on line 317
+[04-Jun-2017 08:20:53 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 401
+[04-Jun-2017 08:20:53 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 403
+[04-Jun-2017 08:20:53 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 409
+[04-Jun-2017 08:20:53 UTC] PHP Notice:  Undefined variable: gender in /home/youssefmousa2001/public_html/home/index.php on line 411
+[04-Jun-2017 08:20:53 UTC] PHP Notice:  Undefined variable: gender_icon in /home/youssefmousa2001/public_html/home/index.php on line 411
+[04-Jun-2017 08:20:53 UTC] PHP Notice:  Undefined variable: user_name in /home/youssefmousa2001/public_html/home/index.php on line 431
+[04-Jun-2017 08:20:53 UTC] PHP Notice:  Undefined variable: user_name in /home/youssefmousa2001/public_html/home/index.php on line 435
+[04-Jun-2017 08:24:20 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/home/index.php on line 77
+[04-Jun-2017 08:24:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/home/index.php on line 77
+[04-Jun-2017 08:24:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/youssefmousa2001/public_html/home/index.php on line 79
+[04-Jun-2017 08:24:20 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/home/index.php on line 89
+[04-Jun-2017 08:24:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/home/index.php on line 89
+[04-Jun-2017 08:24:20 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 239
+[04-Jun-2017 08:24:20 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 241
+[04-Jun-2017 08:24:20 UTC] PHP Notice:  Undefined variable: messages_num in /home/youssefmousa2001/public_html/home/index.php on line 289
+[04-Jun-2017 08:24:20 UTC] PHP Notice:  Undefined variable: messages_num in /home/youssefmousa2001/public_html/home/index.php on line 315
+[04-Jun-2017 08:24:20 UTC] PHP Notice:  Undefined variable: execute_me_query in /home/youssefmousa2001/public_html/home/index.php on line 317
+[04-Jun-2017 08:24:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/youssefmousa2001/public_html/home/index.php on line 317
+[04-Jun-2017 08:24:20 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 401
+[04-Jun-2017 08:24:20 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 403
+[04-Jun-2017 08:24:20 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 409
+[04-Jun-2017 08:24:20 UTC] PHP Notice:  Undefined variable: gender in /home/youssefmousa2001/public_html/home/index.php on line 411
+[04-Jun-2017 08:24:20 UTC] PHP Notice:  Undefined variable: gender_icon in /home/youssefmousa2001/public_html/home/index.php on line 411
+[04-Jun-2017 08:24:20 UTC] PHP Notice:  Undefined variable: user_name in /home/youssefmousa2001/public_html/home/index.php on line 431
+[04-Jun-2017 08:24:20 UTC] PHP Notice:  Undefined variable: user_name in /home/youssefmousa2001/public_html/home/index.php on line 435
+[04-Jun-2017 08:29:23 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/home/index.php on line 77
+[04-Jun-2017 08:29:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/home/index.php on line 77
+[04-Jun-2017 08:29:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/youssefmousa2001/public_html/home/index.php on line 79
+[04-Jun-2017 08:29:23 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/home/index.php on line 89
+[04-Jun-2017 08:29:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/home/index.php on line 89
+[04-Jun-2017 08:29:23 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 239
+[04-Jun-2017 08:29:23 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 241
+[04-Jun-2017 08:29:23 UTC] PHP Notice:  Undefined variable: messages_num in /home/youssefmousa2001/public_html/home/index.php on line 289
+[04-Jun-2017 08:29:23 UTC] PHP Notice:  Undefined variable: messages_num in /home/youssefmousa2001/public_html/home/index.php on line 315
+[04-Jun-2017 08:29:23 UTC] PHP Notice:  Undefined variable: execute_me_query in /home/youssefmousa2001/public_html/home/index.php on line 317
+[04-Jun-2017 08:29:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/youssefmousa2001/public_html/home/index.php on line 317
+[04-Jun-2017 08:29:23 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 401
+[04-Jun-2017 08:29:23 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 403
+[04-Jun-2017 08:29:23 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 409
+[04-Jun-2017 08:29:23 UTC] PHP Notice:  Undefined variable: gender in /home/youssefmousa2001/public_html/home/index.php on line 411
+[04-Jun-2017 08:29:23 UTC] PHP Notice:  Undefined variable: gender_icon in /home/youssefmousa2001/public_html/home/index.php on line 411
+[04-Jun-2017 08:29:23 UTC] PHP Notice:  Undefined variable: user_name in /home/youssefmousa2001/public_html/home/index.php on line 431
+[04-Jun-2017 08:29:23 UTC] PHP Notice:  Undefined variable: user_name in /home/youssefmousa2001/public_html/home/index.php on line 435
+[04-Jun-2017 14:47:06 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/home/index.php on line 77
+[04-Jun-2017 14:47:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/home/index.php on line 77
+[04-Jun-2017 14:47:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/youssefmousa2001/public_html/home/index.php on line 79
+[04-Jun-2017 14:47:06 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/home/index.php on line 89
+[04-Jun-2017 14:47:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/home/index.php on line 89
+[04-Jun-2017 14:47:06 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 239
+[04-Jun-2017 14:47:06 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 241
+[04-Jun-2017 14:47:06 UTC] PHP Notice:  Undefined variable: messages_num in /home/youssefmousa2001/public_html/home/index.php on line 289
+[04-Jun-2017 14:47:06 UTC] PHP Notice:  Undefined variable: messages_num in /home/youssefmousa2001/public_html/home/index.php on line 315
+[04-Jun-2017 14:47:06 UTC] PHP Notice:  Undefined variable: execute_me_query in /home/youssefmousa2001/public_html/home/index.php on line 317
+[04-Jun-2017 14:47:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/youssefmousa2001/public_html/home/index.php on line 317
+[04-Jun-2017 14:47:06 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 401
+[04-Jun-2017 14:47:06 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 403
+[04-Jun-2017 14:47:06 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 409
+[04-Jun-2017 14:47:06 UTC] PHP Notice:  Undefined variable: gender in /home/youssefmousa2001/public_html/home/index.php on line 411
+[04-Jun-2017 14:47:06 UTC] PHP Notice:  Undefined variable: gender_icon in /home/youssefmousa2001/public_html/home/index.php on line 411
+[04-Jun-2017 14:47:06 UTC] PHP Notice:  Undefined variable: user_name in /home/youssefmousa2001/public_html/home/index.php on line 431
+[04-Jun-2017 14:47:06 UTC] PHP Notice:  Undefined variable: user_name in /home/youssefmousa2001/public_html/home/index.php on line 435
+[04-Jun-2017 14:51:10 UTC] PHP Notice:  Undefined variable: domain in /home/youssefmousa2001/public_html/home/share_message_proccess.php on line 6
+[04-Jun-2017 21:49:00 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/home/index.php on line 77
+[04-Jun-2017 21:49:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/home/index.php on line 77
+[04-Jun-2017 21:49:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/youssefmousa2001/public_html/home/index.php on line 79
+[04-Jun-2017 21:49:00 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/home/index.php on line 89
+[04-Jun-2017 21:49:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/home/index.php on line 89
+[04-Jun-2017 21:49:00 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 239
+[04-Jun-2017 21:49:00 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 241
+[04-Jun-2017 21:49:00 UTC] PHP Notice:  Undefined variable: messages_num in /home/youssefmousa2001/public_html/home/index.php on line 289
+[04-Jun-2017 21:49:00 UTC] PHP Notice:  Undefined variable: messages_num in /home/youssefmousa2001/public_html/home/index.php on line 315
+[04-Jun-2017 21:49:00 UTC] PHP Notice:  Undefined variable: execute_me_query in /home/youssefmousa2001/public_html/home/index.php on line 317
+[04-Jun-2017 21:49:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/youssefmousa2001/public_html/home/index.php on line 317
+[04-Jun-2017 21:49:00 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 401
+[04-Jun-2017 21:49:00 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 403
+[04-Jun-2017 21:49:00 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 409
+[04-Jun-2017 21:49:00 UTC] PHP Notice:  Undefined variable: gender in /home/youssefmousa2001/public_html/home/index.php on line 411
+[04-Jun-2017 21:49:00 UTC] PHP Notice:  Undefined variable: gender_icon in /home/youssefmousa2001/public_html/home/index.php on line 411
+[04-Jun-2017 21:49:00 UTC] PHP Notice:  Undefined variable: user_name in /home/youssefmousa2001/public_html/home/index.php on line 431
+[04-Jun-2017 21:49:00 UTC] PHP Notice:  Undefined variable: user_name in /home/youssefmousa2001/public_html/home/index.php on line 435
+[05-Jun-2017 00:29:38 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/home/index.php on line 77
+[05-Jun-2017 00:29:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/home/index.php on line 77
+[05-Jun-2017 00:29:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/youssefmousa2001/public_html/home/index.php on line 79
+[05-Jun-2017 00:29:38 UTC] PHP Notice:  Undefined variable: db in /home/youssefmousa2001/public_html/home/index.php on line 89
+[05-Jun-2017 00:29:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youssefmousa2001/public_html/home/index.php on line 89
+[05-Jun-2017 00:29:38 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 239
+[05-Jun-2017 00:29:38 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 241
+[05-Jun-2017 00:29:38 UTC] PHP Notice:  Undefined variable: messages_num in /home/youssefmousa2001/public_html/home/index.php on line 289
+[05-Jun-2017 00:29:38 UTC] PHP Notice:  Undefined variable: messages_num in /home/youssefmousa2001/public_html/home/index.php on line 315
+[05-Jun-2017 00:29:38 UTC] PHP Notice:  Undefined variable: execute_me_query in /home/youssefmousa2001/public_html/home/index.php on line 317
+[05-Jun-2017 00:29:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/youssefmousa2001/public_html/home/index.php on line 317
+[05-Jun-2017 00:29:38 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 401
+[05-Jun-2017 00:29:38 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 403
+[05-Jun-2017 00:29:38 UTC] PHP Notice:  Undefined variable: user in /home/youssefmousa2001/public_html/home/index.php on line 409
+[05-Jun-2017 00:29:38 UTC] PHP Notice:  Undefined variable: gender in /home/youssefmousa2001/public_html/home/index.php on line 411
+[05-Jun-2017 00:29:38 UTC] PHP Notice:  Undefined variable: gender_icon in /home/youssefmousa2001/public_html/home/index.php on line 411
+[05-Jun-2017 00:29:38 UTC] PHP Notice:  Undefined variable: user_name in /home/youssefmousa2001/public_html/home/index.php on line 431
+[05-Jun-2017 00:29:38 UTC] PHP Notice:  Undefined variable: user_name in /home/youssefmousa2001/public_html/home/index.php on line 435

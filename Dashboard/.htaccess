@@ -1,0 +1,5 @@
+Options -Indexes
+AuthName "Dashboard"
+AuthUserFile "/home/youssefmousa2001/.htpasswds/public_html/Dashboard/passwd"
+AuthType Basic
+require valid-user
