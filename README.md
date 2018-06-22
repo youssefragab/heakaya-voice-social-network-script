@@ -1,3 +1,3 @@
 # heakaya-voice-social-network-script
 
-Visit Demo From Here : http://heakaya.com
+Voice Social Network PHP Script
